@@ -1,0 +1,21 @@
+{
+  "slides": 6,
+  "pdf_pages": 6,
+  "notes": 6,
+  "text_shapes_checked": 117,
+  "text_overflow": [
+    {
+      "slide": 1,
+      "name": "TextBox 3",
+      "text": "FIRMWARE"
+    }
+  ],
+  "outside_canvas": [],
+  "required_content": {
+    "Radar AND sound?": true,
+    "Notify the main task": true,
+    "Enter light sleep": true,
+    "Configured watchdog reset": true
+  },
+  "hal_code": false
+}
